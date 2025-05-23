@@ -1,3 +1,3 @@
 <?php
-echo "A dor passa, a força fica. Levante-se — o recomeço é o primeiro passo para a vitória.";
+echo "'Cada qual sabe amar a seu modo; o modo, pouco importa; o essencial é que saiba amar' - Machado de Assis";
 ?>
