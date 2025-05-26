@@ -2,11 +2,15 @@
 
 Este repositório foi criado para centralizar os meus estudos e projetos de aprendizado em **PHP**, utilizando o **Visual Studio Code** e o **XAMPP** como ambiente de desenvolvimento local.
 
+<div class="text-align: center; justify-content: center; align-items: center;">
 
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![XAMPP](https://img.shields.io/badge/XAMPP-3.3.0-orange)
 ![VSCode](https://img.shields.io/badge/Editor-VS%20Code-007ACC)
+  
+</div>
+
 
 ---
 
