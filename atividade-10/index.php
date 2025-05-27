@@ -42,7 +42,7 @@
                 if (isset($_GET['resultado']) && isset($_GET['nome'])) {
                     $nome = htmlspecialchars($_GET['nome']);
                     $resultado = htmlspecialchars($_GET['resultado']);
-                    echo "Olá, $nome! A soma dos números é: $resultado";
+                    echo "Olá, $nome! A multiplicação dos números é: $resultado";
                 } elseif (isset($_GET['erro'])) {
                     echo htmlspecialchars($_GET['erro']);
                 }

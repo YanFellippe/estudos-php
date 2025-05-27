@@ -14,9 +14,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         header("Location: index.php?erro=" . urlencode("Erro: Por favor insira números válidos."));
         exit();
     } else {
-        $soma = $num1 + $num2 + $num3 + $num4 + $num5;
+        $multi = $num1 * $num2 * $num3 * $num4 * $num5;
         // Redireciona com o resultado e o nome
-        header("Location: index.php?nome=" . urlencode($nome) . "&resultado=" . urlencode($soma));
+        header("Location: index.php?nome=" . urlencode($nome) . "&resultado=" . urlencode($multi));
         exit();
     }
 } else {
