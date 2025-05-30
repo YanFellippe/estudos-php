@@ -3,7 +3,7 @@ $nome = "Yan";
 $idade = 22;
 
 if($idade < 5){
-    echo $nome.", você é menor de idade!";
+    echo $nome.", sua idade é inválida para natação!";
 } else if($idade >= 5 && $idade <= 7){
     echo $nome.", você está na categoria: Infantil A";
 } else if($idade >= 8 && $idade <= 10){
