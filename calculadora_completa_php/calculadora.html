@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculadora em PHP</title>
+  <link rel="stylesheet" href="./style/index.css">
+</head>
+<body>
+
+<div class="calculator">
+  <h2>Calculadora PHP</h2>
+  <form method="post">
+    <input type="number" name="num1" placeholder="Número 1" required>
+    <input type="number" name="num2" placeholder="Número 2" required>
+    <br>
+    <select name="operacao" required>
+      <option value="+">Somar (+)</option>
+      <option value="-">Subtrair (-)</option>
+      <option value="*">Multiplicar (*)</option>
+      <option value="/">Dividir (/)</option>
+    </select>
+    <br>
+    <button type="submit">Calcular</button>
+  </form>
+
+  <script src="./php/config.php"></script>
+</div>
+
+</body>
+</html>
