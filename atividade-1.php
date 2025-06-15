@@ -10,4 +10,7 @@ Integra com banco, responde ao usuário, é leve, é veloz, quase um visionário
 De blogs antigos a lojas robustas, é o motor oculto de ideias justas.<br>
 Criticado por uns, amado por muitos, ainda respira em códigos distintos.<br>
 Pois enquanto houver servidor no ar, PHP, velho amigo, vai continuar.<br>";
+
+
+
 ?>
